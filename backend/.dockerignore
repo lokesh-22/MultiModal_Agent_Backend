@@ -1,0 +1,17 @@
+.venv
+__pycache__
+*.pyc
+.git
+.gitignore
+
+tests
+sample_data
+
+uploads
+
+.env
+
+.paddlex
+.cache
+
+*.log
